@@ -16,8 +16,6 @@ func Proverb(rhyme []string) []string {
 	// Edge cases for 0 and 1 word
 	if rhymeLen == 0 {
 		return []string{}
-	} else if rhymeLen == 1 {
-		return []string{lastString(rhyme[0])}
 	}
 
 	var sentences []string
