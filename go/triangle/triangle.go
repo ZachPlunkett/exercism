@@ -26,7 +26,7 @@ func realNumber(a, b, c float64) bool {
 	return true
 }
 
-// KindFromSides should have a comment documenting it.
+// KindFromSides returns the type of a triangle based upon its three sides.
 func KindFromSides(a, b, c float64) Kind {
 
 	// Not a Triangle
