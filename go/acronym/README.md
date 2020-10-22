@@ -1,23 +1,15 @@
-# Bob
+# Acronym
 
-Bob is a lackadaisical teenager. In conversation, his responses are very limited.
+Convert a phrase to its acronym.
 
-Bob answers 'Sure.' if you ask him a question, such as "How are you?".
+Techies love their TLA (Three Letter Acronyms)!
 
-He answers 'Whoa, chill out!' if you YELL AT HIM (in all capitals).
-
-He answers 'Calm down, I know what I'm doing!' if you yell a question at him.
-
-He says 'Fine. Be that way!' if you address him without actually saying
-anything.
-
-He answers 'Whatever.' to anything else.
-
-Bob's conversational partner is a purist when it comes to written communication and always follows normal rules regarding sentence punctuation in English.
+Help generate some jargon by writing a program that converts a long name
+like Portable Network Graphics to its acronym (PNG).
 
 ## Coding the solution
 
-Look for a stub file having the name bob.go
+Look for a stub file having the name acronym.go
 and place your solution code in that file.
 
 ## Running the tests
@@ -39,8 +31,7 @@ you're having trouble, please visit the exercism.io [Go language page](http://ex
 
 ## Source
 
-Inspired by the 'Deaf Grandma' exercise in Chris Pine's Learn to Program tutorial. [http://pine.fm/LearnToProgram/?Chapter=06](http://pine.fm/LearnToProgram/?Chapter=06)
+Julien Vanier [https://github.com/monkbroc](https://github.com/monkbroc)
 
 ## Submitting Incomplete Solutions
-
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
